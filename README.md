@@ -4,7 +4,8 @@
 ## About
 This is a page that contains info about our team members.
 It was made with HTML5, CSS3 and JavaScript. 
-Learn more about the javascript logic.
+
+[Take a look at developer's path.](https://docs.google.com/document/d/1G_-iFFZFIDqAB89czkW3TpnOHSS88eAGC-4CM7CDXT8/edit?usp=sharing)
 
 ## Prerequisites
 Web browser of your preference.

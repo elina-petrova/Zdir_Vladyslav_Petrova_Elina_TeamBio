@@ -11,8 +11,8 @@ It was made with HTML5, CSS3 and JavaScript.
 Web browser of your preference.
 
 ## Authors
-1.Petrova Elina - Developer.
-2.Zdir Vladyslav - Designer.
+1. Petrova Elina - Developer.  
+2. Zdir Vladyslav - Designer.
 
 ## Lisence 
 All rights reserved.

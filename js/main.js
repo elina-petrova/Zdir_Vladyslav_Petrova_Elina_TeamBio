@@ -8,7 +8,9 @@
 	    container = document.querySelector(".container");
 
 	let teamData = [
-	["Vladyslav Zdir", `Designer`, `check`],
+	["Vladyslav Zdir", `Designer`, `Vladislav is a creative designer and an idea developer.  
+	He is engaged in graphic design, 3D modeling and video production.  Vladislav always
+	 finds a creative and unique approach to his work.`],
     ["Elina Petrova", `Developer`, ` Elina applies herself to her work with creativity
     and dedication. She is the kind of person who find fun in coding, even if it makes her
     cry. With her strong logic and patience she manages to solve every problem. `]
